@@ -1,2 +1,5 @@
 Projet:
 Développement d'un blog en PHP.
+Les pages à développer:
+index.php : liste des cinq derniers billets;
+commentaires.php: affichage d'un billet et de ses commentaires.
